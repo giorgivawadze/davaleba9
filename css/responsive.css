@@ -1,0 +1,139 @@
+@media (max-width:768px) {
+    .navig {
+        display: none;
+    }
+    .burgerbar {
+        display: flex;
+        margin-right: 70%;
+    }
+    .iframe {
+        max-width: 1088px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .textareadiv {
+        width: 100%;
+    }
+   
+    .copyright {
+        font-size: 7px;
+        margin-right: 60%;
+    }
+    .imaages {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    .img1 {
+        width: 55%;
+        height: 55%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .img2 {
+        width: 55%;
+        height: 55%;
+        margin-bottom: 30px;
+    }
+    .img3 {
+        width: 55%;
+        height: 55%;
+        margin-bottom: 30px;
+    }
+    .inputdiv {
+        width: 100%;
+    }
+    .abouth2 {
+        display: none;
+    }
+    .usefullink {
+        display: block;
+        text-shadow: 1px 1px 1px rgb(203, 94, 94);
+    }
+    .a {
+        color: rgb(31, 0, 233);
+    }
+    .miniinfo {
+        display: none;
+    }
+    .texti1 {
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .stairs {
+        margin-top: 20px;
+    }
+
+    .pool {
+        margin-top: 20px;
+    }
+    .right-block {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+    }
+   .container {
+    display: flex;
+    flex-direction: column;
+   }
+   .maindiv {
+    display: flex;
+    flex-direction: column;
+    max-width: 1366px;
+    width: 80%;
+   }
+   .div1 {
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+    
+   }
+   .div2 {
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+   }
+   .div3 {
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+   }
+   .div4 {
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+   }
+   
+   
+   .icons {
+    display: none;
+   }
+   .footerdiv2 {
+    display: none;
+   }
+   .footerdiv3 {
+    display: none;
+   }
+   .footerdiv4 {
+    display: none;
+   }
+
+    .maindiv4 {
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+    }
+    .maindivv {
+        display: flex;
+        flex-direction: column;
+    }
+}
+ @media (max-width:768px) {
+    .contactinfo {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 10px;
+     }
+ }
